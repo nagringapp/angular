@@ -45,6 +45,8 @@ Perform these steps in a command-line tool on the computer you want to use for t
 <docs-step title="Identify the version of `node.js` that Angular requires">
 Angular requires an active LTS or maintenance LTS version of Node. Let's confirm your version of `node.js`. For information about specific version requirements, see the engines property in the [package.json file](https://unpkg.com/browse/@angular/core@15.1.5/package.json).
 
+[Download Files](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbktpNVpyZ21hS2RnalB1NmMyamVldXdHWUdWQXxBQ3Jtc0tseENvbnZEYVZnbEVHMGFLV2ljV1c0eGctT3dWWkk0Skl5TWxWRjZKRldLTHM2VWU2dUtic2xid3EwdUlldFJ2RXNnYmdYMUlHZXpEMm5uaDl3SDlaZklfSkx1Qkd5ajdqUmR2bC02dm9pa1Q4X0ZZVQ&q=https%3A%2F%2Fgoo.gle%2Flearn-angular-step-1&v=xAT0lHYhHMY)
+
 From a **Terminal** window:
 
 1. Run the following command: `node --version`
